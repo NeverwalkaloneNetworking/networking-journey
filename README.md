@@ -35,5 +35,13 @@ Documenting my journey learning networking, CCNA concepts, Linux, and network tr
 - Router Configuration
 - VLAN Practice
 
+## Learning Resources
+- Professor Messer
+- Cisco NetAcad
+- Jeremy's IT Lab
+
+## Mission
+Showing that consistency, labs, documentation, and practical skills can build real networking expertise.
+
 ## Contact
 Learning in public and building every 
